@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
     botaoTexto: {
         fontFamily: FONT_FAMILY_SEMI_BOLD,
         fontSize: FONT_SIZE_SMALL,
-        color: WHITE
+        color: WHITE,
+        textAlign: 'center'
     }
 });
 
